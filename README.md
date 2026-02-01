@@ -2,6 +2,7 @@
 A Python-based network scanner for discovering active hosts and checking open ports on target systems. This educational project demonstrates networking fundamentals, socket programming, and security concepts.
 
 __🎯 Project Overview__
+
 This network scanner is a command-line tool that allows users to scan IP addresses for open ports, identify running services, and understand network security basics. Built as a learning project to demonstrate practical networking skills and Python programming capabilities.
 
 __✨ Features__
